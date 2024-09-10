@@ -1,5 +1,5 @@
 # MyDodoList
-All the starting work and complete work all are note this repository 
+All the starting bending and completed work was take motes in this repository 
 Morning Prayer
 Breakfast 
 Study
